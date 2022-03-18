@@ -9,5 +9,11 @@
     <Reference Include="MPI">
       <HintPath>..\..\MPI.dll</HintPath>
     </Reference>
+    <Reference Include="MGroup.Environments.MPI">
+      <HintPath>..\..\MGroup.Environments.MPI.dll</HintPath>
+    </Reference>
+    <Reference Include="MGroup.Environments">
+      <HintPath>..\..\MGroup.Environments.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
